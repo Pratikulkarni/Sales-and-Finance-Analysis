@@ -1,3 +1,5 @@
+![Uploading Myshell_ThumbMaker_241112_191836 (1).png…]()
+
 # Sales-and-Finance-Analysis
 # 1. Sales-Analytics
 This is my sales analytics of project on AtliQ Hardwares using MS EXCEL
